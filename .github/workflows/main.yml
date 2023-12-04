@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: trigger job
-      uses: appleboy/jenkins-action@master
+      uses: appleboy/jenkins-action@latest-release
       with:
         url: "https://jenkins.sdpmlab.org/"
         user: "410977019"
