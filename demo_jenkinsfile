@@ -1,7 +1,7 @@
 pipeline{
     agent{
         node{
-            label '<your_stdID>'
+            label '<410977019>'
         }
     }
     options{
